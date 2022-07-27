@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import {NavLink } from "react-router-dom";
+import {Link, NavLink } from "react-router-dom";
 import Contact from './Contact';
 import './styles/Header.css';
 
@@ -27,7 +27,7 @@ function BrandExample() {
             <Nav.Link href="/transaction-history">Transaction History</Nav.Link>
             <Nav.Link href="/contact">Contact</Nav.Link>
             <Nav.Link href="/about">About</Nav.Link>
-            <Nav.Link href="/login">Profile</Nav.Link>            
+            <Nav.Link href="/login">Profile</Nav.Link>        
           </Nav>
         </Container>
       </Navbar>

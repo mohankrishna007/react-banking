@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css'; 
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route} from 'react-router-dom';
 import Home from './Home';
 import Contact from './Contact';
 import About from './About';
@@ -21,19 +21,20 @@ import SendFunds from './SendFunds';
 
 
 const routing = (
-  <BrowserRouter basename='/react-banking'>
+  <BrowserRouter basename="react-banking">
     <Routes>
       <Route path='/' Exact element={<Home/>}></Route>
-      <Route path='contact' element={<Contact/>}></Route>
-      <Route path='about' element={<About/>}></Route>
-      <Route path='/transaction-history' element={<TransactionHistory/>}></Route>
-      <Route path='/send-funds' element={<SendFunds/>}></Route>
-      <Route path='login' element={<Login/>}></Route>
-      <Route path='register' element={<Contact/>}></Route>
+      <Route path='/contact' Exact element={<Contact/>}></Route>
+      <Route path='/about' Exact element={<About/>}></Route>
+      <Route path='/transaction-history' Exact element={<TransactionHistory/>}></Route>
+      <Route path='/send-funds' Exact element={<SendFunds/>}></Route>
+      <Route path='login' Exact element={<Login/>}></Route>
+      <Route path='register' Exact element={<Contact/>}></Route>
 
     </Routes>
   </BrowserRouter>
 )
+
 ReactDOM.render(routing, document.getElementById('root'))
 
 // // If you want to start measuring performance in your app, pass a function
