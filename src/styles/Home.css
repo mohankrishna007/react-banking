@@ -1,0 +1,9 @@
+.parent{
+    width: 100%;
+    background-color: #f3f3f3;
+    position: relative;
+}
+
+.inline-block-child {
+    display: inline-block;
+  }
