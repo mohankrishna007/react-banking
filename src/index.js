@@ -12,29 +12,29 @@ import Login from './Login';
 import TransactionHistory from './TransactionHistory';
 import SendFunds from './SendFunds';
 
-// const root = ReactDOM.createRoot(document.getElementById('root'));
-// root.render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>
-// );
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
 
 
-const routing = (
-  <BrowserRouter>
-    <Routes>
-      <Route path='/' element={<Home/>}></Route>
-      <Route path='contact' element={<Contact/>}></Route>
-      <Route path='about' element={<About/>}></Route>
-      <Route path='/transaction-history' element={<TransactionHistory/>}></Route>
-      <Route path='/send-funds' element={<SendFunds/>}></Route>
-      <Route path='login' element={<Login/>}></Route>
-      <Route path='register' element={<Contact/>}></Route>
+// const routing = (
+//   <BrowserRouter>
+//     <Routes>
+//       <Route path='/' element={<Home/>}></Route>
+//       <Route path='contact' element={<Contact/>}></Route>
+//       <Route path='about' element={<About/>}></Route>
+//       <Route path='/transaction-history' element={<TransactionHistory/>}></Route>
+//       <Route path='/send-funds' element={<SendFunds/>}></Route>
+//       <Route path='login' element={<Login/>}></Route>
+//       <Route path='register' element={<Contact/>}></Route>
 
-    </Routes>
-  </BrowserRouter>
-)
-ReactDOM.render(routing, document.getElementById('root'))
+//     </Routes>
+//   </BrowserRouter>
+// )
+// ReactDOM.render(routing, document.getElementById('root'))
 
 // // If you want to start measuring performance in your app, pass a function
 // // to log results (for example: reportWebVitals(console.log))
