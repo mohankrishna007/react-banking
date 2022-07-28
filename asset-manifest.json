@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-banking/static/css/main.3b8cbbc2.css",
-    "main.js": "/react-banking/static/js/main.ee20adca.js",
+    "main.css": "/react-banking/static/css/main.6e3052de.css",
+    "main.js": "/react-banking/static/js/main.05104859.js",
     "static/js/787.57e7c158.chunk.js": "/react-banking/static/js/787.57e7c158.chunk.js",
+    "static/media/MoneyPlant.jpg": "/react-banking/static/media/MoneyPlant.8899d8f746b4390abb4f.jpg",
+    "static/media/payment.jpg": "/react-banking/static/media/payment.a7d8efdef619e1ff567b.jpg",
+    "static/media/services.png": "/react-banking/static/media/services.b4b5ae8150aeb880db8f.png",
+    "static/media/about.jpg": "/react-banking/static/media/about.389d0306cb234281e4e4.jpg",
     "static/media/logo.svg": "/react-banking/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-banking/index.html",
-    "main.3b8cbbc2.css.map": "/react-banking/static/css/main.3b8cbbc2.css.map",
-    "main.ee20adca.js.map": "/react-banking/static/js/main.ee20adca.js.map",
+    "main.6e3052de.css.map": "/react-banking/static/css/main.6e3052de.css.map",
+    "main.05104859.js.map": "/react-banking/static/js/main.05104859.js.map",
     "787.57e7c158.chunk.js.map": "/react-banking/static/js/787.57e7c158.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b8cbbc2.css",
-    "static/js/main.ee20adca.js"
+    "static/css/main.6e3052de.css",
+    "static/js/main.05104859.js"
   ]
 }
