@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/react-banking/static/css/main.a3cb0bab.css",
-    "main.js": "/react-banking/static/js/main.99532f8b.js",
+    "main.css": "/react-banking/static/css/main.fad6eddd.css",
+    "main.js": "/react-banking/static/js/main.ee671ee6.js",
     "static/js/787.57e7c158.chunk.js": "/react-banking/static/js/787.57e7c158.chunk.js",
-    "static/media/blockchain-3513216.jpg": "/react-banking/static/media/blockchain-3513216.de763a68c9b6400d11f2.jpg",
     "static/media/1.jpg": "/react-banking/static/media/1.7e79567f8e9f87e95fa2.jpg",
-    "static/media/2.jpg": "/react-banking/static/media/2.a63ffa6e44696a61ebc2.jpg",
-    "static/media/blockchain-2853046.jpg": "/react-banking/static/media/blockchain-2853046.72bf08857e9d0dcb3e02.jpg",
-    "static/media/payment-bg.jpg": "/react-banking/static/media/payment-bg.2dcdbfcf81331eb7de6f.jpg",
     "static/media/3.jpg": "/react-banking/static/media/3.818957923d9edaa2ac18.jpg",
     "static/media/contact-bg.jpg": "/react-banking/static/media/contact-bg.1287ccea2734d740744a.jpg",
-    "static/media/MoneyPlant.jpg": "/react-banking/static/media/MoneyPlant.8899d8f746b4390abb4f.jpg",
+    "static/media/profile-user.png": "/react-banking/static/media/profile-user.81251c2b9f690ecbfa52.png",
+    "static/media/BankTitle.jpg": "/react-banking/static/media/BankTitle.6c055fa471c0e96351f9.jpg",
+    "static/media/money-transfer.jpg": "/react-banking/static/media/money-transfer.15accfadb42603988c52.jpg",
     "static/media/services.png": "/react-banking/static/media/services.b4b5ae8150aeb880db8f.png",
     "static/media/about.jpg": "/react-banking/static/media/about.389d0306cb234281e4e4.jpg",
+    "static/media/slide1.jpg": "/react-banking/static/media/slide1.dc243bccf571cb5e11a7.jpg",
     "static/media/logo.svg": "/react-banking/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-banking/index.html",
-    "main.a3cb0bab.css.map": "/react-banking/static/css/main.a3cb0bab.css.map",
-    "main.99532f8b.js.map": "/react-banking/static/js/main.99532f8b.js.map",
+    "main.fad6eddd.css.map": "/react-banking/static/css/main.fad6eddd.css.map",
+    "main.ee671ee6.js.map": "/react-banking/static/js/main.ee671ee6.js.map",
     "787.57e7c158.chunk.js.map": "/react-banking/static/js/787.57e7c158.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3cb0bab.css",
-    "static/js/main.99532f8b.js"
+    "static/css/main.fad6eddd.css",
+    "static/js/main.ee671ee6.js"
   ]
 }
